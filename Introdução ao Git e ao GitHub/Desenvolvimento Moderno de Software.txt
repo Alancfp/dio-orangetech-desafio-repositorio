@@ -1,0 +1,23 @@
+Ux => Cuida da experiência do usuário (acessibilidadde, usabilidade e interação).
+   * Ele vai entender a persona e criar um protótipo e vai passar a cara do programa, onde estará cada informação.
+
+Funções do UX => Pesquisdar, Protótipos, Persona, Objetivos.
+
+Funções do UI => Cores, Tipografia, Microinterações, Estilos.
+
+O UX e o UI trabalham em parceiria para elaborar a cara do programa.
+
+EX: Profissional de UX desenha o WIREFRAME, mostra onde estará posicionado os botões; O UI irá desenhar o estilo dos botões, 
+escolher as cores do botão, estilo de fonte para o botão, assim como para toda a página ou app.
+
+Aqui entra o profissional FRONT-END ele cria o layout da página separando em seções, coloca botões de interações com o usuário.
+Geralmente usa-se uma framework para acelerar o processo. ( Angular, Laravel e Vue).
+
+BACK-END Trata dos dados, organiza, faz calculo e devolve para o FRONT-END.
+
+FULL STACK é o profissional que conhece o processo de ponta a ponta.
+
+Q.A (Quality Assurance) Analizar o código, se é seguro ou não para o usuário, se as informação tem segurança e confiança, etc.
+
+Desenvolvimento Mobile => Só muda em questão do FRONT-END. BACK-END continua normal. Desenvolvimento MOBILE JAVA e/ou KOTLIN.
+Pode ser um desenvolvimento híbrido web. (IONIC FLUTTER REACT NATIVE)
