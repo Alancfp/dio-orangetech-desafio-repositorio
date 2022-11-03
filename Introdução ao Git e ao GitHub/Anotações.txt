@@ -1,0 +1,3 @@
+Link para download do git https://git-scm.com/downloads
+
+O git Bash é um terinal extendido para otimizar o uso do Git.
